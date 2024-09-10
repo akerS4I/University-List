@@ -1,0 +1,13 @@
+body{
+  background-color: beige;
+  display: flex;
+  justify-content: center; /* Horizontally center */
+  align-items: center;     /* Vertically center */
+  height: 100vh;
+}
+
+p{
+  color: black;
+  font-family: monospace;
+  font-size: 25px;
+}
