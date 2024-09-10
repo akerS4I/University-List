@@ -6,15 +6,19 @@
 
 body{
   line-height: 1.6;
+  color: black;
+  font-family: monospace;
+
   background-color: beige;
+
   display: flex;
   justify-content: center; /* Horizontally center */
   align-items: center;     /* Vertically center */
+  
   height: 100vh;
+  width: 100%;
 }
 
 p{
-  color: black;
-  font-family: monospace;
   font-size: 25px;
 }
