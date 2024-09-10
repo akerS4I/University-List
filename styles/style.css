@@ -6,19 +6,47 @@
 
 body{
   line-height: 1.6;
-  color: black;
+  color: #212A3E;
   font-family: monospace;
 
-  background-color: beige;
+  background-color: #FFFFFF;
 
-  display: flex;
-  justify-content: center; /* Horizontally center */
-  align-items: center;     /* Vertically center */
-  
   height: 100vh;
   width: 100%;
 }
 
-p{
-  font-size: 25px;
+header{
+  width: 100%;
+  height: 80px;
+  
+  background: #F6F9FA;
+
+  font-size: 35px;
+
+  padding: 0 5%;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header button{
+  background-color: transparent;
+
+  font-family: monospace;
+  font-size: 16px;
+
+  padding: 8px;
+  border-radius: 8px;
+  border-color: #000;
+  border-style: solid;
+  transition: all 0.2s ease;
+}
+
+header button:hover{
+  background-color: #212A3E;
+  border-color: #212A3E;
+
+  color: #fff;
+  
 }
