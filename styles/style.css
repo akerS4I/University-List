@@ -90,6 +90,7 @@ header button:hover {
 
 .card p{
   font-size: 15px;
+  font-weight: bold;
 }
 
 .card img{
@@ -97,7 +98,8 @@ header button:hover {
 }
 
 .desc{
-  font-size: 14px;
+  font-size: 15px;
+  font-weight: 550;
 }
 
 .card button {
