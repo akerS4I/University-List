@@ -9,4 +9,4 @@ Stack: HTML CSS JS (json format for db)
 
 Time spent: 2h 33m
 
-View website: 
+View website: https://akers4i.github.io/University-List/
