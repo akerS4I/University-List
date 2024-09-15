@@ -1,802 +1,802 @@
 [
-    {
-        "id": 1,
-        "name": "Bucheon University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
-        "logo": "https://bucheon.uz/img/logo1200x630.png",
-        "pricesStartAt": "2200 $"
-    },
-    {
-        "id": 2,
-        "name": "Tashkent State University of Economics",
-        "isStateUniversity": "true",
-        "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
-        "logo": "https://tsue.uz/images/logo.png",
-        "pricesStartAt": "1500 $"
-    },
-    {
-        "id": 3,
-        "name": "Inha University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
-        "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
-        "pricesStartAt": "3000 $"
-    },
-    {
-        "id": 4,
-        "name": "Westminster International University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
-        "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
-        "pricesStartAt": "4500 $"
-    },
-    {
-        "id": 5,
-        "name": "Tashkent University of Information Technologies",
-        "isStateUniversity": "true",
-        "description": "TUIT is a public university focused on IT and telecommunications education.",
-        "logo": "https://tuit.uz/images/logo-tuit.png",
-        "pricesStartAt": "1200 $"
-    },
-    {
-        "id": 6,
-        "name": "Tashkent State Technical University",
-        "isStateUniversity": "true",
-        "description": "Tashkent State Technical University specializes in engineering and technology education.",
-        "logo": "https://tdtu.uz/images/logo.png",
-        "pricesStartAt": "1300 $"
-    },
-    {
-        "id": 7,
-        "name": "Management Development Institute of Singapore in Tashkent",
-        "isStateUniversity": "false",
-        "description": "MDIS Tashkent is a private university offering business and management programs.",
-        "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
-        "pricesStartAt": "4000 $"
-    },
-    {
-        "id": 8,
-        "name": "Tashkent Medical Academy",
-        "isStateUniversity": "true",
-        "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
-        "logo": "https://tma.uz/images/logo-tma.png",
-        "pricesStartAt": "2000 $"
-    },
-    {
-        "id": 9,
-        "name": "Turin Polytechnic University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
-        "logo": "https://polito.uz/images/logo-turin.png",
-        "pricesStartAt": "3200 $"
-    },
-    {
-        "id": 10,
-        "name": "Tashkent Financial Institute",
-        "isStateUniversity": "true",
-        "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
-        "logo": "https://tfi.uz/images/logo.png",
-        "pricesStartAt": "1600 $"
-    },
-    {
-        "id": 11,
-        "name": "Bucheon University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
-        "logo": "https://bucheon.uz/img/logo1200x630.png",
-        "pricesStartAt": "2200 $"
-    },
-    {
-        "id": 12,
-        "name": "Tashkent State University of Economics",
-        "isStateUniversity": "true",
-        "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
-        "logo": "https://tsue.uz/images/logo.png",
-        "pricesStartAt": "1500 $"
-    },
-    {
-        "id": 13,
-        "name": "Inha University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
-        "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
-        "pricesStartAt": "3000 $"
-    },
-    {
-        "id": 14,
-        "name": "Westminster International University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
-        "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
-        "pricesStartAt": "4500 $"
-    },
-    {
-        "id": 15,
-        "name": "Tashkent University of Information Technologies",
-        "isStateUniversity": "true",
-        "description": "TUIT is a public university focused on IT and telecommunications education.",
-        "logo": "https://tuit.uz/images/logo-tuit.png",
-        "pricesStartAt": "1200 $"
-    },
-    {
-        "id": 16,
-        "name": "Tashkent State Technical University",
-        "isStateUniversity": "true",
-        "description": "Tashkent State Technical University specializes in engineering and technology education.",
-        "logo": "https://tdtu.uz/images/logo.png",
-        "pricesStartAt": "1300 $"
-    },
-    {
-        "id": 17,
-        "name": "Management Development Institute of Singapore in Tashkent",
-        "isStateUniversity": "false",
-        "description": "MDIS Tashkent is a private university offering business and management programs.",
-        "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
-        "pricesStartAt": "4000 $"
-    },
-    {
-        "id": 18,
-        "name": "Tashkent Medical Academy",
-        "isStateUniversity": "true",
-        "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
-        "logo": "https://tma.uz/images/logo-tma.png",
-        "pricesStartAt": "2000 $"
-    },
-    {
-        "id": 19,
-        "name": "Turin Polytechnic University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
-        "logo": "https://polito.uz/images/logo-turin.png",
-        "pricesStartAt": "3200 $"
-    },
-    {
-        "id": 20,
-        "name": "Tashkent Financial Institute",
-        "isStateUniversity": "true",
-        "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
-        "logo": "https://tfi.uz/images/logo.png",
-        "pricesStartAt": "1600 $"
-    },
-    {
-        "id": 21,
-        "name": "Bucheon University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
-        "logo": "https://bucheon.uz/img/logo1200x630.png",
-        "pricesStartAt": "2200 $"
-    },
-    {
-        "id": 22,
-        "name": "Tashkent State University of Economics",
-        "isStateUniversity": "true",
-        "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
-        "logo": "https://tsue.uz/images/logo.png",
-        "pricesStartAt": "1500 $"
-    },
-    {
-        "id": 23,
-        "name": "Inha University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
-        "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
-        "pricesStartAt": "3000 $"
-    },
-    {
-        "id": 24,
-        "name": "Westminster International University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
-        "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
-        "pricesStartAt": "4500 $"
-    },
-    {
-        "id": 25,
-        "name": "Tashkent University of Information Technologies",
-        "isStateUniversity": "true",
-        "description": "TUIT is a public university focused on IT and telecommunications education.",
-        "logo": "https://tuit.uz/images/logo-tuit.png",
-        "pricesStartAt": "1200 $"
-    },
-    {
-        "id": 26,
-        "name": "Tashkent State Technical University",
-        "isStateUniversity": "true",
-        "description": "Tashkent State Technical University specializes in engineering and technology education.",
-        "logo": "https://tdtu.uz/images/logo.png",
-        "pricesStartAt": "1300 $"
-    },
-    {
-        "id": 27,
-        "name": "Management Development Institute of Singapore in Tashkent",
-        "isStateUniversity": "false",
-        "description": "MDIS Tashkent is a private university offering business and management programs.",
-        "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
-        "pricesStartAt": "4000 $"
-    },
-    {
-        "id": 28,
-        "name": "Tashkent Medical Academy",
-        "isStateUniversity": "true",
-        "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
-        "logo": "https://tma.uz/images/logo-tma.png",
-        "pricesStartAt": "2000 $"
-    },
-    {
-        "id": 29,
-        "name": "Turin Polytechnic University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
-        "logo": "https://polito.uz/images/logo-turin.png",
-        "pricesStartAt": "3200 $"
-    },
-    {
-        "id": 30,
-        "name": "Tashkent Financial Institute",
-        "isStateUniversity": "true",
-        "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
-        "logo": "https://tfi.uz/images/logo.png",
-        "pricesStartAt": "1600 $"
-    },
-    {
-        "id": 31,
-        "name": "Bucheon University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
-        "logo": "https://bucheon.uz/img/logo1200x630.png",
-        "pricesStartAt": "2200 $"
-    },
-    {
-        "id": 32,
-        "name": "Tashkent State University of Economics",
-        "isStateUniversity": "true",
-        "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
-        "logo": "https://tsue.uz/images/logo.png",
-        "pricesStartAt": "1500 $"
-    },
-    {
-        "id": 33,
-        "name": "Inha University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
-        "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
-        "pricesStartAt": "3000 $"
-    },
-    {
-        "id": 34,
-        "name": "Westminster International University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
-        "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
-        "pricesStartAt": "4500 $"
-    },
-    {
-        "id": 35,
-        "name": "Tashkent University of Information Technologies",
-        "isStateUniversity": "true",
-        "description": "TUIT is a public university focused on IT and telecommunications education.",
-        "logo": "https://tuit.uz/images/logo-tuit.png",
-        "pricesStartAt": "1200 $"
-    },
-    {
-        "id": 36,
-        "name": "Tashkent State Technical University",
-        "isStateUniversity": "true",
-        "description": "Tashkent State Technical University specializes in engineering and technology education.",
-        "logo": "https://tdtu.uz/images/logo.png",
-        "pricesStartAt": "1300 $"
-    },
-    {
-        "id": 37,
-        "name": "Management Development Institute of Singapore in Tashkent",
-        "isStateUniversity": "false",
-        "description": "MDIS Tashkent is a private university offering business and management programs.",
-        "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
-        "pricesStartAt": "4000 $"
-    },
-    {
-        "id": 38,
-        "name": "Tashkent Medical Academy",
-        "isStateUniversity": "true",
-        "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
-        "logo": "https://tma.uz/images/logo-tma.png",
-        "pricesStartAt": "2000 $"
-    },
-    {
-        "id": 39,
-        "name": "Turin Polytechnic University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
-        "logo": "https://polito.uz/images/logo-turin.png",
-        "pricesStartAt": "3200 $"
-    },
-    {
-        "id": 40,
-        "name": "Tashkent Financial Institute",
-        "isStateUniversity": "true",
-        "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
-        "logo": "https://tfi.uz/images/logo.png",
-        "pricesStartAt": "1600 $"
-    },
-    {
-        "id": 41,
-        "name": "Bucheon University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
-        "logo": "https://bucheon.uz/img/logo1200x630.png",
-        "pricesStartAt": "2200 $"
-    },
-    {
-        "id": 42,
-        "name": "Tashkent State University of Economics",
-        "isStateUniversity": "true",
-        "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
-        "logo": "https://tsue.uz/images/logo.png",
-        "pricesStartAt": "1500 $"
-    },
-    {
-        "id": 43,
-        "name": "Inha University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
-        "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
-        "pricesStartAt": "3000 $"
-    },
-    {
-        "id": 44,
-        "name": "Westminster International University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
-        "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
-        "pricesStartAt": "4500 $"
-    },
-    {
-        "id": 45,
-        "name": "Tashkent University of Information Technologies",
-        "isStateUniversity": "true",
-        "description": "TUIT is a public university focused on IT and telecommunications education.",
-        "logo": "https://tuit.uz/images/logo-tuit.png",
-        "pricesStartAt": "1200 $"
-    },
-    {
-        "id": 46,
-        "name": "Tashkent State Technical University",
-        "isStateUniversity": "true",
-        "description": "Tashkent State Technical University specializes in engineering and technology education.",
-        "logo": "https://tdtu.uz/images/logo.png",
-        "pricesStartAt": "1300 $"
-    },
-    {
-        "id": 47,
-        "name": "Management Development Institute of Singapore in Tashkent",
-        "isStateUniversity": "false",
-        "description": "MDIS Tashkent is a private university offering business and management programs.",
-        "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
-        "pricesStartAt": "4000 $"
-    },
-    {
-        "id": 48,
-        "name": "Tashkent Medical Academy",
-        "isStateUniversity": "true",
-        "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
-        "logo": "https://tma.uz/images/logo-tma.png",
-        "pricesStartAt": "2000 $"
-    },
-    {
-        "id": 49,
-        "name": "Turin Polytechnic University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
-        "logo": "https://polito.uz/images/logo-turin.png",
-        "pricesStartAt": "3200 $"
-    },
-    {
-        "id": 50,
-        "name": "Tashkent Financial Institute",
-        "isStateUniversity": "true",
-        "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
-        "logo": "https://tfi.uz/images/logo.png",
-        "pricesStartAt": "1600 $"
-    },
-    {
-        "id": 51,
-        "name": "Bucheon University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
-        "logo": "https://bucheon.uz/img/logo1200x630.png",
-        "pricesStartAt": "2200 $"
-    },
-    {
-        "id": 52,
-        "name": "Tashkent State University of Economics",
-        "isStateUniversity": "true",
-        "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
-        "logo": "https://tsue.uz/images/logo.png",
-        "pricesStartAt": "1500 $"
-    },
-    {
-        "id": 53,
-        "name": "Inha University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
-        "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
-        "pricesStartAt": "3000 $"
-    },
-    {
-        "id": 54,
-        "name": "Westminster International University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
-        "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
-        "pricesStartAt": "4500 $"
-    },
-    {
-        "id": 55,
-        "name": "Tashkent University of Information Technologies",
-        "isStateUniversity": "true",
-        "description": "TUIT is a public university focused on IT and telecommunications education.",
-        "logo": "https://tuit.uz/images/logo-tuit.png",
-        "pricesStartAt": "1200 $"
-    },
-    {
-        "id": 56,
-        "name": "Tashkent State Technical University",
-        "isStateUniversity": "true",
-        "description": "Tashkent State Technical University specializes in engineering and technology education.",
-        "logo": "https://tdtu.uz/images/logo.png",
-        "pricesStartAt": "1300 $"
-    },
-    {
-        "id": 57,
-        "name": "Management Development Institute of Singapore in Tashkent",
-        "isStateUniversity": "false",
-        "description": "MDIS Tashkent is a private university offering business and management programs.",
-        "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
-        "pricesStartAt": "4000 $"
-    },
-    {
-        "id": 58,
-        "name": "Tashkent Medical Academy",
-        "isStateUniversity": "true",
-        "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
-        "logo": "https://tma.uz/images/logo-tma.png",
-        "pricesStartAt": "2000 $"
-    },
-    {
-        "id": 59,
-        "name": "Turin Polytechnic University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
-        "logo": "https://polito.uz/images/logo-turin.png",
-        "pricesStartAt": "3200 $"
-    },
-    {
-        "id": 60,
-        "name": "Tashkent Financial Institute",
-        "isStateUniversity": "true",
-        "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
-        "logo": "https://tfi.uz/images/logo.png",
-        "pricesStartAt": "1600 $"
-    },
-    {
-        "id": 61,
-        "name": "Bucheon University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
-        "logo": "https://bucheon.uz/img/logo1200x630.png",
-        "pricesStartAt": "2200 $"
-    },
-    {
-        "id": 62,
-        "name": "Tashkent State University of Economics",
-        "isStateUniversity": "true",
-        "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
-        "logo": "https://tsue.uz/images/logo.png",
-        "pricesStartAt": "1500 $"
-    },
-    {
-        "id": 63,
-        "name": "Inha University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
-        "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
-        "pricesStartAt": "3000 $"
-    },
-    {
-        "id": 64,
-        "name": "Westminster International University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
-        "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
-        "pricesStartAt": "4500 $"
-    },
-    {
-        "id": 65,
-        "name": "Tashkent University of Information Technologies",
-        "isStateUniversity": "true",
-        "description": "TUIT is a public university focused on IT and telecommunications education.",
-        "logo": "https://tuit.uz/images/logo-tuit.png",
-        "pricesStartAt": "1200 $"
-    },
-    {
-        "id": 66,
-        "name": "Tashkent State Technical University",
-        "isStateUniversity": "true",
-        "description": "Tashkent State Technical University specializes in engineering and technology education.",
-        "logo": "https://tdtu.uz/images/logo.png",
-        "pricesStartAt": "1300 $"
-    },
-    {
-        "id": 67,
-        "name": "Management Development Institute of Singapore in Tashkent",
-        "isStateUniversity": "false",
-        "description": "MDIS Tashkent is a private university offering business and management programs.",
-        "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
-        "pricesStartAt": "4000 $"
-    },
-    {
-        "id": 68,
-        "name": "Tashkent Medical Academy",
-        "isStateUniversity": "true",
-        "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
-        "logo": "https://tma.uz/images/logo-tma.png",
-        "pricesStartAt": "2000 $"
-    },
-    {
-        "id": 69,
-        "name": "Turin Polytechnic University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
-        "logo": "https://polito.uz/images/logo-turin.png",
-        "pricesStartAt": "3200 $"
-    },
-    {
-        "id": 70,
-        "name": "Tashkent Financial Institute",
-        "isStateUniversity": "true",
-        "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
-        "logo": "https://tfi.uz/images/logo.png",
-        "pricesStartAt": "1600 $"
-    },
-    {
-        "id": 71,
-        "name": "Bucheon University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
-        "logo": "https://bucheon.uz/img/logo1200x630.png",
-        "pricesStartAt": "2200 $"
-    },
-    {
-        "id": 72,
-        "name": "Tashkent State University of Economics",
-        "isStateUniversity": "true",
-        "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
-        "logo": "https://tsue.uz/images/logo.png",
-        "pricesStartAt": "1500 $"
-    },
-    {
-        "id": 73,
-        "name": "Inha University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
-        "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
-        "pricesStartAt": "3000 $"
-    },
-    {
-        "id": 74,
-        "name": "Westminster International University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
-        "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
-        "pricesStartAt": "4500 $"
-    },
-    {
-        "id": 75,
-        "name": "Tashkent University of Information Technologies",
-        "isStateUniversity": "true",
-        "description": "TUIT is a public university focused on IT and telecommunications education.",
-        "logo": "https://tuit.uz/images/logo-tuit.png",
-        "pricesStartAt": "1200 $"
-    },
-    {
-        "id": 76,
-        "name": "Tashkent State Technical University",
-        "isStateUniversity": "true",
-        "description": "Tashkent State Technical University specializes in engineering and technology education.",
-        "logo": "https://tdtu.uz/images/logo.png",
-        "pricesStartAt": "1300 $"
-    },
-    {
-        "id": 77,
-        "name": "Management Development Institute of Singapore in Tashkent",
-        "isStateUniversity": "false",
-        "description": "MDIS Tashkent is a private university offering business and management programs.",
-        "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
-        "pricesStartAt": "4000 $"
-    },
-    {
-        "id": 78,
-        "name": "Tashkent Medical Academy",
-        "isStateUniversity": "true",
-        "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
-        "logo": "https://tma.uz/images/logo-tma.png",
-        "pricesStartAt": "2000 $"
-    },
-    {
-        "id": 79,
-        "name": "Turin Polytechnic University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
-        "logo": "https://polito.uz/images/logo-turin.png",
-        "pricesStartAt": "3200 $"
-    },
-    {
-        "id": 80,
-        "name": "Tashkent Financial Institute",
-        "isStateUniversity": "true",
-        "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
-        "logo": "https://tfi.uz/images/logo.png",
-        "pricesStartAt": "1600 $"
-    },
-    {
-        "id": 81,
-        "name": "Bucheon University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
-        "logo": "https://bucheon.uz/img/logo1200x630.png",
-        "pricesStartAt": "2200 $"
-    },
-    {
-        "id": 82,
-        "name": "Tashkent State University of Economics",
-        "isStateUniversity": "true",
-        "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
-        "logo": "https://tsue.uz/images/logo.png",
-        "pricesStartAt": "1500 $"
-    },
-    {
-        "id": 83,
-        "name": "Inha University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
-        "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
-        "pricesStartAt": "3000 $"
-    },
-    {
-        "id": 84,
-        "name": "Westminster International University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
-        "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
-        "pricesStartAt": "4500 $"
-    },
-    {
-        "id": 85,
-        "name": "Tashkent University of Information Technologies",
-        "isStateUniversity": "true",
-        "description": "TUIT is a public university focused on IT and telecommunications education.",
-        "logo": "https://tuit.uz/images/logo-tuit.png",
-        "pricesStartAt": "1200 $"
-    },
-    {
-        "id": 86,
-        "name": "Tashkent State Technical University",
-        "isStateUniversity": "true",
-        "description": "Tashkent State Technical University specializes in engineering and technology education.",
-        "logo": "https://tdtu.uz/images/logo.png",
-        "pricesStartAt": "1300 $"
-    },
-    {
-        "id": 87,
-        "name": "Management Development Institute of Singapore in Tashkent",
-        "isStateUniversity": "false",
-        "description": "MDIS Tashkent is a private university offering business and management programs.",
-        "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
-        "pricesStartAt": "4000 $"
-    },
-    {
-        "id": 88,
-        "name": "Tashkent Medical Academy",
-        "isStateUniversity": "true",
-        "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
-        "logo": "https://tma.uz/images/logo-tma.png",
-        "pricesStartAt": "2000 $"
-    },
-    {
-        "id": 89,
-        "name": "Turin Polytechnic University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
-        "logo": "https://polito.uz/images/logo-turin.png",
-        "pricesStartAt": "3200 $"
-    },
-    {
-        "id": 90,
-        "name": "Tashkent Financial Institute",
-        "isStateUniversity": "true",
-        "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
-        "logo": "https://tfi.uz/images/logo.png",
-        "pricesStartAt": "1600 $"
-    },
-    {
-        "id": 91,
-        "name": "Bucheon University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
-        "logo": "https://bucheon.uz/img/logo1200x630.png",
-        "pricesStartAt": "2200 $"
-    },
-    {
-        "id": 92,
-        "name": "Tashkent State University of Economics",
-        "isStateUniversity": "true",
-        "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
-        "logo": "https://tsue.uz/images/logo.png",
-        "pricesStartAt": "1500 $"
-    },
-    {
-        "id": 93,
-        "name": "Inha University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
-        "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
-        "pricesStartAt": "3000 $"
-    },
-    {
-        "id": 94,
-        "name": "Westminster International University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
-        "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
-        "pricesStartAt": "4500 $"
-    },
-    {
-        "id": 95,
-        "name": "Tashkent University of Information Technologies",
-        "isStateUniversity": "true",
-        "description": "TUIT is a public university focused on IT and telecommunications education.",
-        "logo": "https://tuit.uz/images/logo-tuit.png",
-        "pricesStartAt": "1200 $"
-    },
-    {
-        "id": 96,
-        "name": "Tashkent State Technical University",
-        "isStateUniversity": "true",
-        "description": "Tashkent State Technical University specializes in engineering and technology education.",
-        "logo": "https://tdtu.uz/images/logo.png",
-        "pricesStartAt": "1300 $"
-    },
-    {
-        "id": 97,
-        "name": "Management Development Institute of Singapore in Tashkent",
-        "isStateUniversity": "false",
-        "description": "MDIS Tashkent is a private university offering business and management programs.",
-        "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
-        "pricesStartAt": "4000 $"
-    },
-    {
-        "id": 98,
-        "name": "Tashkent Medical Academy",
-        "isStateUniversity": "true",
-        "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
-        "logo": "https://tma.uz/images/logo-tma.png",
-        "pricesStartAt": "2000 $"
-    },
-    {
-        "id": 99,
-        "name": "Turin Polytechnic University in Tashkent",
-        "isStateUniversity": "false",
-        "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
-        "logo": "https://polito.uz/images/logo-turin.png",
-        "pricesStartAt": "3200 $"
-    },
-    {
-        "id": 100,
-        "name": "Tashkent Financial Institute",
-        "isStateUniversity": "true",
-        "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
-        "logo": "https://tfi.uz/images/logo.png",
-        "pricesStartAt": "1600 $"
-    }
+  {
+    "id": 1,
+    "name": "Bucheon University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
+    "logo": "https://bucheon.uz/img/logo1200x630.png",
+    "pricesStartAt": "2200 $"
+  },
+  {
+    "id": 2,
+    "name": "Tashkent State University of Economics",
+    "isStateUniversity": "true",
+    "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
+    "logo": "https://tsue.uz/images/logo.png",
+    "pricesStartAt": "1500 $"
+  },
+  {
+    "id": 3,
+    "name": "Inha University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
+    "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
+    "pricesStartAt": "3000 $"
+  },
+  {
+    "id": 4,
+    "name": "Westminster International University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
+    "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
+    "pricesStartAt": "4500 $"
+  },
+  {
+    "id": 5,
+    "name": "Tashkent University of Information Technologies",
+    "isStateUniversity": "true",
+    "description": "TUIT is a public university focused on IT and telecommunications education.",
+    "logo": "https://tuit.uz/images/logo-tuit.png",
+    "pricesStartAt": "1200 $"
+  },
+  {
+    "id": 6,
+    "name": "Tashkent State Technical University",
+    "isStateUniversity": "true",
+    "description": "Tashkent State Technical University specializes in engineering and technology education.",
+    "logo": "https://tdtu.uz/images/logo.png",
+    "pricesStartAt": "1300 $"
+  },
+  {
+    "id": 7,
+    "name": "Management Development Institute of Singapore in Tashkent",
+    "isStateUniversity": "false",
+    "description": "MDIS Tashkent is a private university offering business and management programs.",
+    "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
+    "pricesStartAt": "4000 $"
+  },
+  {
+    "id": 8,
+    "name": "Tashkent Medical Academy",
+    "isStateUniversity": "true",
+    "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
+    "logo": "https://tma.uz/images/logo-tma.png",
+    "pricesStartAt": "2000 $"
+  },
+  {
+    "id": 9,
+    "name": "Turin Polytechnic University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
+    "logo": "https://polito.uz/images/logo-turin.png",
+    "pricesStartAt": "3200 $"
+  },
+  {
+    "id": 10,
+    "name": "Tashkent Financial Institute",
+    "isStateUniversity": "true",
+    "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
+    "logo": "https://tfi.uz/images/logo.png",
+    "pricesStartAt": "1600 $"
+  },
+  {
+    "id": 11,
+    "name": "Bucheon University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
+    "logo": "https://bucheon.uz/img/logo1200x630.png",
+    "pricesStartAt": "2200 $"
+  },
+  {
+    "id": 12,
+    "name": "Tashkent State University of Economics",
+    "isStateUniversity": "true",
+    "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
+    "logo": "https://tsue.uz/images/logo.png",
+    "pricesStartAt": "1500 $"
+  },
+  {
+    "id": 13,
+    "name": "Inha University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
+    "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
+    "pricesStartAt": "3000 $"
+  },
+  {
+    "id": 14,
+    "name": "Westminster International University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
+    "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
+    "pricesStartAt": "4500 $"
+  },
+  {
+    "id": 15,
+    "name": "Tashkent University of Information Technologies",
+    "isStateUniversity": "true",
+    "description": "TUIT is a public university focused on IT and telecommunications education.",
+    "logo": "https://tuit.uz/images/logo-tuit.png",
+    "pricesStartAt": "1200 $"
+  },
+  {
+    "id": 16,
+    "name": "Tashkent State Technical University",
+    "isStateUniversity": "true",
+    "description": "Tashkent State Technical University specializes in engineering and technology education.",
+    "logo": "https://tdtu.uz/images/logo.png",
+    "pricesStartAt": "1300 $"
+  },
+  {
+    "id": 17,
+    "name": "Management Development Institute of Singapore in Tashkent",
+    "isStateUniversity": "false",
+    "description": "MDIS Tashkent is a private university offering business and management programs.",
+    "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
+    "pricesStartAt": "4000 $"
+  },
+  {
+    "id": 18,
+    "name": "Tashkent Medical Academy",
+    "isStateUniversity": "true",
+    "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
+    "logo": "https://tma.uz/images/logo-tma.png",
+    "pricesStartAt": "2000 $"
+  },
+  {
+    "id": 19,
+    "name": "Turin Polytechnic University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
+    "logo": "https://polito.uz/images/logo-turin.png",
+    "pricesStartAt": "3200 $"
+  },
+  {
+    "id": 20,
+    "name": "Tashkent Financial Institute",
+    "isStateUniversity": "true",
+    "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
+    "logo": "https://tfi.uz/images/logo.png",
+    "pricesStartAt": "1600 $"
+  },
+  {
+    "id": 21,
+    "name": "Bucheon University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
+    "logo": "https://bucheon.uz/img/logo1200x630.png",
+    "pricesStartAt": "2200 $"
+  },
+  {
+    "id": 22,
+    "name": "Tashkent State University of Economics",
+    "isStateUniversity": "true",
+    "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
+    "logo": "https://tsue.uz/images/logo.png",
+    "pricesStartAt": "1500 $"
+  },
+  {
+    "id": 23,
+    "name": "Inha University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
+    "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
+    "pricesStartAt": "3000 $"
+  },
+  {
+    "id": 24,
+    "name": "Westminster International University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
+    "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
+    "pricesStartAt": "4500 $"
+  },
+  {
+    "id": 25,
+    "name": "Tashkent University of Information Technologies",
+    "isStateUniversity": "true",
+    "description": "TUIT is a public university focused on IT and telecommunications education.",
+    "logo": "https://tuit.uz/images/logo-tuit.png",
+    "pricesStartAt": "1200 $"
+  },
+  {
+    "id": 26,
+    "name": "Tashkent State Technical University",
+    "isStateUniversity": "true",
+    "description": "Tashkent State Technical University specializes in engineering and technology education.",
+    "logo": "https://tdtu.uz/images/logo.png",
+    "pricesStartAt": "1300 $"
+  },
+  {
+    "id": 27,
+    "name": "Management Development Institute of Singapore in Tashkent",
+    "isStateUniversity": "false",
+    "description": "MDIS Tashkent is a private university offering business and management programs.",
+    "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
+    "pricesStartAt": "4000 $"
+  },
+  {
+    "id": 28,
+    "name": "Tashkent Medical Academy",
+    "isStateUniversity": "true",
+    "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
+    "logo": "https://tma.uz/images/logo-tma.png",
+    "pricesStartAt": "2000 $"
+  },
+  {
+    "id": 29,
+    "name": "Turin Polytechnic University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
+    "logo": "https://polito.uz/images/logo-turin.png",
+    "pricesStartAt": "3200 $"
+  },
+  {
+    "id": 30,
+    "name": "Tashkent Financial Institute",
+    "isStateUniversity": "true",
+    "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
+    "logo": "https://tfi.uz/images/logo.png",
+    "pricesStartAt": "1600 $"
+  },
+  {
+    "id": 31,
+    "name": "Bucheon University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
+    "logo": "https://bucheon.uz/img/logo1200x630.png",
+    "pricesStartAt": "2200 $"
+  },
+  {
+    "id": 32,
+    "name": "Tashkent State University of Economics",
+    "isStateUniversity": "true",
+    "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
+    "logo": "https://tsue.uz/images/logo.png",
+    "pricesStartAt": "1500 $"
+  },
+  {
+    "id": 33,
+    "name": "Inha University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
+    "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
+    "pricesStartAt": "3000 $"
+  },
+  {
+    "id": 34,
+    "name": "Westminster International University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
+    "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
+    "pricesStartAt": "4500 $"
+  },
+  {
+    "id": 35,
+    "name": "Tashkent University of Information Technologies",
+    "isStateUniversity": "true",
+    "description": "TUIT is a public university focused on IT and telecommunications education.",
+    "logo": "https://tuit.uz/images/logo-tuit.png",
+    "pricesStartAt": "1200 $"
+  },
+  {
+    "id": 36,
+    "name": "Tashkent State Technical University",
+    "isStateUniversity": "true",
+    "description": "Tashkent State Technical University specializes in engineering and technology education.",
+    "logo": "https://tdtu.uz/images/logo.png",
+    "pricesStartAt": "1300 $"
+  },
+  {
+    "id": 37,
+    "name": "Management Development Institute of Singapore in Tashkent",
+    "isStateUniversity": "false",
+    "description": "MDIS Tashkent is a private university offering business and management programs.",
+    "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
+    "pricesStartAt": "4000 $"
+  },
+  {
+    "id": 38,
+    "name": "Tashkent Medical Academy",
+    "isStateUniversity": "true",
+    "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
+    "logo": "https://tma.uz/images/logo-tma.png",
+    "pricesStartAt": "2000 $"
+  },
+  {
+    "id": 39,
+    "name": "Turin Polytechnic University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
+    "logo": "https://polito.uz/images/logo-turin.png",
+    "pricesStartAt": "3200 $"
+  },
+  {
+    "id": 40,
+    "name": "Tashkent Financial Institute",
+    "isStateUniversity": "true",
+    "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
+    "logo": "https://tfi.uz/images/logo.png",
+    "pricesStartAt": "1600 $"
+  },
+  {
+    "id": 41,
+    "name": "Bucheon University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
+    "logo": "https://bucheon.uz/img/logo1200x630.png",
+    "pricesStartAt": "2200 $"
+  },
+  {
+    "id": 42,
+    "name": "Tashkent State University of Economics",
+    "isStateUniversity": "true",
+    "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
+    "logo": "https://tsue.uz/images/logo.png",
+    "pricesStartAt": "1500 $"
+  },
+  {
+    "id": 43,
+    "name": "Inha University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
+    "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
+    "pricesStartAt": "3000 $"
+  },
+  {
+    "id": 44,
+    "name": "Westminster International University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
+    "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
+    "pricesStartAt": "4500 $"
+  },
+  {
+    "id": 45,
+    "name": "Tashkent University of Information Technologies",
+    "isStateUniversity": "true",
+    "description": "TUIT is a public university focused on IT and telecommunications education.",
+    "logo": "https://tuit.uz/images/logo-tuit.png",
+    "pricesStartAt": "1200 $"
+  },
+  {
+    "id": 46,
+    "name": "Tashkent State Technical University",
+    "isStateUniversity": "true",
+    "description": "Tashkent State Technical University specializes in engineering and technology education.",
+    "logo": "https://tdtu.uz/images/logo.png",
+    "pricesStartAt": "1300 $"
+  },
+  {
+    "id": 47,
+    "name": "Management Development Institute of Singapore in Tashkent",
+    "isStateUniversity": "false",
+    "description": "MDIS Tashkent is a private university offering business and management programs.",
+    "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
+    "pricesStartAt": "4000 $"
+  },
+  {
+    "id": 48,
+    "name": "Tashkent Medical Academy",
+    "isStateUniversity": "true",
+    "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
+    "logo": "https://tma.uz/images/logo-tma.png",
+    "pricesStartAt": "2000 $"
+  },
+  {
+    "id": 49,
+    "name": "Turin Polytechnic University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
+    "logo": "https://polito.uz/images/logo-turin.png",
+    "pricesStartAt": "3200 $"
+  },
+  {
+    "id": 50,
+    "name": "Tashkent Financial Institute",
+    "isStateUniversity": "true",
+    "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
+    "logo": "https://tfi.uz/images/logo.png",
+    "pricesStartAt": "1600 $"
+  },
+  {
+    "id": 51,
+    "name": "Bucheon University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
+    "logo": "https://bucheon.uz/img/logo1200x630.png",
+    "pricesStartAt": "2200 $"
+  },
+  {
+    "id": 52,
+    "name": "Tashkent State University of Economics",
+    "isStateUniversity": "true",
+    "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
+    "logo": "https://tsue.uz/images/logo.png",
+    "pricesStartAt": "1500 $"
+  },
+  {
+    "id": 53,
+    "name": "Inha University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
+    "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
+    "pricesStartAt": "3000 $"
+  },
+  {
+    "id": 54,
+    "name": "Westminster International University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
+    "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
+    "pricesStartAt": "4500 $"
+  },
+  {
+    "id": 55,
+    "name": "Tashkent University of Information Technologies",
+    "isStateUniversity": "true",
+    "description": "TUIT is a public university focused on IT and telecommunications education.",
+    "logo": "https://tuit.uz/images/logo-tuit.png",
+    "pricesStartAt": "1200 $"
+  },
+  {
+    "id": 56,
+    "name": "Tashkent State Technical University",
+    "isStateUniversity": "true",
+    "description": "Tashkent State Technical University specializes in engineering and technology education.",
+    "logo": "https://tdtu.uz/images/logo.png",
+    "pricesStartAt": "1300 $"
+  },
+  {
+    "id": 57,
+    "name": "Management Development Institute of Singapore in Tashkent",
+    "isStateUniversity": "false",
+    "description": "MDIS Tashkent is a private university offering business and management programs.",
+    "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
+    "pricesStartAt": "4000 $"
+  },
+  {
+    "id": 58,
+    "name": "Tashkent Medical Academy",
+    "isStateUniversity": "true",
+    "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
+    "logo": "https://tma.uz/images/logo-tma.png",
+    "pricesStartAt": "2000 $"
+  },
+  {
+    "id": 59,
+    "name": "Turin Polytechnic University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
+    "logo": "https://polito.uz/images/logo-turin.png",
+    "pricesStartAt": "3200 $"
+  },
+  {
+    "id": 60,
+    "name": "Tashkent Financial Institute",
+    "isStateUniversity": "true",
+    "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
+    "logo": "https://tfi.uz/images/logo.png",
+    "pricesStartAt": "1600 $"
+  },
+  {
+    "id": 61,
+    "name": "Bucheon University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
+    "logo": "https://bucheon.uz/img/logo1200x630.png",
+    "pricesStartAt": "2200 $"
+  },
+  {
+    "id": 62,
+    "name": "Tashkent State University of Economics",
+    "isStateUniversity": "true",
+    "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
+    "logo": "https://tsue.uz/images/logo.png",
+    "pricesStartAt": "1500 $"
+  },
+  {
+    "id": 63,
+    "name": "Inha University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
+    "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
+    "pricesStartAt": "3000 $"
+  },
+  {
+    "id": 64,
+    "name": "Westminster International University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
+    "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
+    "pricesStartAt": "4500 $"
+  },
+  {
+    "id": 65,
+    "name": "Tashkent University of Information Technologies",
+    "isStateUniversity": "true",
+    "description": "TUIT is a public university focused on IT and telecommunications education.",
+    "logo": "https://tuit.uz/images/logo-tuit.png",
+    "pricesStartAt": "1200 $"
+  },
+  {
+    "id": 66,
+    "name": "Tashkent State Technical University",
+    "isStateUniversity": "true",
+    "description": "Tashkent State Technical University specializes in engineering and technology education.",
+    "logo": "https://tdtu.uz/images/logo.png",
+    "pricesStartAt": "1300 $"
+  },
+  {
+    "id": 67,
+    "name": "Management Development Institute of Singapore in Tashkent",
+    "isStateUniversity": "false",
+    "description": "MDIS Tashkent is a private university offering business and management programs.",
+    "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
+    "pricesStartAt": "4000 $"
+  },
+  {
+    "id": 68,
+    "name": "Tashkent Medical Academy",
+    "isStateUniversity": "true",
+    "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
+    "logo": "https://tma.uz/images/logo-tma.png",
+    "pricesStartAt": "2000 $"
+  },
+  {
+    "id": 69,
+    "name": "Turin Polytechnic University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
+    "logo": "https://polito.uz/images/logo-turin.png",
+    "pricesStartAt": "3200 $"
+  },
+  {
+    "id": 70,
+    "name": "Tashkent Financial Institute",
+    "isStateUniversity": "true",
+    "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
+    "logo": "https://tfi.uz/images/logo.png",
+    "pricesStartAt": "1600 $"
+  },
+  {
+    "id": 71,
+    "name": "Bucheon University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
+    "logo": "https://bucheon.uz/img/logo1200x630.png",
+    "pricesStartAt": "2200 $"
+  },
+  {
+    "id": 72,
+    "name": "Tashkent State University of Economics",
+    "isStateUniversity": "true",
+    "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
+    "logo": "https://tsue.uz/images/logo.png",
+    "pricesStartAt": "1500 $"
+  },
+  {
+    "id": 73,
+    "name": "Inha University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
+    "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
+    "pricesStartAt": "3000 $"
+  },
+  {
+    "id": 74,
+    "name": "Westminster International University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
+    "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
+    "pricesStartAt": "4500 $"
+  },
+  {
+    "id": 75,
+    "name": "Tashkent University of Information Technologies",
+    "isStateUniversity": "true",
+    "description": "TUIT is a public university focused on IT and telecommunications education.",
+    "logo": "https://tuit.uz/images/logo-tuit.png",
+    "pricesStartAt": "1200 $"
+  },
+  {
+    "id": 76,
+    "name": "Tashkent State Technical University",
+    "isStateUniversity": "true",
+    "description": "Tashkent State Technical University specializes in engineering and technology education.",
+    "logo": "https://tdtu.uz/images/logo.png",
+    "pricesStartAt": "1300 $"
+  },
+  {
+    "id": 77,
+    "name": "Management Development Institute of Singapore in Tashkent",
+    "isStateUniversity": "false",
+    "description": "MDIS Tashkent is a private university offering business and management programs.",
+    "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
+    "pricesStartAt": "4000 $"
+  },
+  {
+    "id": 78,
+    "name": "Tashkent Medical Academy",
+    "isStateUniversity": "true",
+    "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
+    "logo": "https://tma.uz/images/logo-tma.png",
+    "pricesStartAt": "2000 $"
+  },
+  {
+    "id": 79,
+    "name": "Turin Polytechnic University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
+    "logo": "https://polito.uz/images/logo-turin.png",
+    "pricesStartAt": "3200 $"
+  },
+  {
+    "id": 80,
+    "name": "Tashkent Financial Institute",
+    "isStateUniversity": "true",
+    "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
+    "logo": "https://tfi.uz/images/logo.png",
+    "pricesStartAt": "1600 $"
+  },
+  {
+    "id": 81,
+    "name": "Bucheon University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
+    "logo": "https://bucheon.uz/img/logo1200x630.png",
+    "pricesStartAt": "2200 $"
+  },
+  {
+    "id": 82,
+    "name": "Tashkent State University of Economics",
+    "isStateUniversity": "true",
+    "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
+    "logo": "https://tsue.uz/images/logo.png",
+    "pricesStartAt": "1500 $"
+  },
+  {
+    "id": 83,
+    "name": "Inha University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
+    "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
+    "pricesStartAt": "3000 $"
+  },
+  {
+    "id": 84,
+    "name": "Westminster International University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
+    "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
+    "pricesStartAt": "4500 $"
+  },
+  {
+    "id": 85,
+    "name": "Tashkent University of Information Technologies",
+    "isStateUniversity": "true",
+    "description": "TUIT is a public university focused on IT and telecommunications education.",
+    "logo": "https://tuit.uz/images/logo-tuit.png",
+    "pricesStartAt": "1200 $"
+  },
+  {
+    "id": 86,
+    "name": "Tashkent State Technical University",
+    "isStateUniversity": "true",
+    "description": "Tashkent State Technical University specializes in engineering and technology education.",
+    "logo": "https://tdtu.uz/images/logo.png",
+    "pricesStartAt": "1300 $"
+  },
+  {
+    "id": 87,
+    "name": "Management Development Institute of Singapore in Tashkent",
+    "isStateUniversity": "false",
+    "description": "MDIS Tashkent is a private university offering business and management programs.",
+    "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
+    "pricesStartAt": "4000 $"
+  },
+  {
+    "id": 88,
+    "name": "Tashkent Medical Academy",
+    "isStateUniversity": "true",
+    "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
+    "logo": "https://tma.uz/images/logo-tma.png",
+    "pricesStartAt": "2000 $"
+  },
+  {
+    "id": 89,
+    "name": "Turin Polytechnic University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
+    "logo": "https://polito.uz/images/logo-turin.png",
+    "pricesStartAt": "3200 $"
+  },
+  {
+    "id": 90,
+    "name": "Tashkent Financial Institute",
+    "isStateUniversity": "true",
+    "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
+    "logo": "https://tfi.uz/images/logo.png",
+    "pricesStartAt": "1600 $"
+  },
+  {
+    "id": 91,
+    "name": "Bucheon University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Bucheon University in Tashkent (BUT) is a joint entity established by the decree of the President of Uzbekistan.",
+    "logo": "https://bucheon.uz/img/logo1200x630.png",
+    "pricesStartAt": "2200 $"
+  },
+  {
+    "id": 92,
+    "name": "Tashkent State University of Economics",
+    "isStateUniversity": "true",
+    "description": "TSUE is one of the largest universities in Uzbekistan, focusing on economics, finance, and business administration.",
+    "logo": "https://tsue.uz/images/logo.png",
+    "pricesStartAt": "1500 $"
+  },
+  {
+    "id": 93,
+    "name": "Inha University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Inha University in Tashkent (IUT) focuses on IT and computer science education.",
+    "logo": "https://inha.uz/wp-content/uploads/2020/02/inha-logo.png",
+    "pricesStartAt": "3000 $"
+  },
+  {
+    "id": 94,
+    "name": "Westminster International University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "WIUT offers internationally recognized degrees and is a branch of the University of Westminster in London.",
+    "logo": "https://www.wiut.uz/media/k2/items/cache/3c7fc1e91e4d02a7e0f5b04f938beec9_XL.jpg",
+    "pricesStartAt": "4500 $"
+  },
+  {
+    "id": 95,
+    "name": "Tashkent University of Information Technologies",
+    "isStateUniversity": "true",
+    "description": "TUIT is a public university focused on IT and telecommunications education.",
+    "logo": "https://tuit.uz/images/logo-tuit.png",
+    "pricesStartAt": "1200 $"
+  },
+  {
+    "id": 96,
+    "name": "Tashkent State Technical University",
+    "isStateUniversity": "true",
+    "description": "Tashkent State Technical University specializes in engineering and technology education.",
+    "logo": "https://tdtu.uz/images/logo.png",
+    "pricesStartAt": "1300 $"
+  },
+  {
+    "id": 97,
+    "name": "Management Development Institute of Singapore in Tashkent",
+    "isStateUniversity": "false",
+    "description": "MDIS Tashkent is a private university offering business and management programs.",
+    "logo": "https://mdis.uz/wp-content/uploads/2020/05/mdis-logo.png",
+    "pricesStartAt": "4000 $"
+  },
+  {
+    "id": 98,
+    "name": "Tashkent Medical Academy",
+    "isStateUniversity": "true",
+    "description": "Tashkent Medical Academy is a public university that focuses on medical education and research.",
+    "logo": "https://tma.uz/images/logo-tma.png",
+    "pricesStartAt": "2000 $"
+  },
+  {
+    "id": 99,
+    "name": "Turin Polytechnic University in Tashkent",
+    "isStateUniversity": "false",
+    "description": "Turin Polytechnic University in Tashkent offers engineering and architecture degrees, in cooperation with Italy.",
+    "logo": "https://polito.uz/images/logo-turin.png",
+    "pricesStartAt": "3200 $"
+  },
+  {
+    "id": 100,
+    "name": "Tashkent Financial Institute",
+    "isStateUniversity": "true",
+    "description": "Tashkent Financial Institute specializes in finance, economics, and business administration.",
+    "logo": "https://tfi.uz/images/logo.png",
+    "pricesStartAt": "1600 $"
+  }
 ]
