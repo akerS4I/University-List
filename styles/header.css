@@ -11,7 +11,8 @@ header {
  display: flex;
  align-items: center;
  justify-content: space-between;
-}
+ font-family: 'Poppins';
+} 
 
 header button {
  background-color: transparent;
@@ -20,10 +21,14 @@ header button {
  font-size: 16px;
 
  padding: 8px;
- border-radius: 8px;
+ border-radius: 50%;
  border-color: #000;
  border-style: solid;
- transition: all 0.2s ease;
+ transition: all 0.1s ease;
+ width: 40px;
+ height: 40px;
+
+ border: 2px solid;
 }
 
 header button:hover {
@@ -32,4 +37,20 @@ header button:hover {
 
  color: #fff;
  cursor: pointer;
+}
+
+header .socials{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+
+  font-size: 16px;
+}
+
+@media (max-width: 600px) {
+  header{
+    padding: 0 10px;
+    flex-direction: column;
+    height: auto;
+  }
 }
